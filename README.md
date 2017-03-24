@@ -1,3 +1,0 @@
-# earthblood
-#
-# some text
